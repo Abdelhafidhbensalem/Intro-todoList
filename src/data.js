@@ -1,0 +1,1 @@
+export const tasks=[{id:1,description:"drink coffe",user:"abs"},{id:2,description:"Eat",user:"flen"},{id:3,description:"work",user:"feltena"}]
